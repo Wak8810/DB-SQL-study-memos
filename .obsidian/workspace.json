@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "30cf6a8de938f001",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aba83e1b984da37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2233815940c32582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/まだやれていないこと.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "まだやれていないこと"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca21d01184384855",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c1005a7d6d8372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd403eae9a63d8e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "fc8fd12facec02ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "ec0e4b017ceeff74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffff03d70156b39f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d39aab850e1cb4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224e0d5e5aafbb9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL/まだやれていないこと.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "まだやれていないことへのバックリンク"
+            }
+          },
+          {
+            "id": "e4c0ba792d58d28a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/まだやれていないこと.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "まだやれていないことからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "98c205026cd2edaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "052cd375a3603aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/まだやれていないこと.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "まだやれていないことのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2233815940c32582",
+  "lastOpenFiles": [
+    "DB/HRクラウド動画.md",
+    "Welcome.md",
+    "SQL/SQL攻略/正規化/やらんかも.md",
+    "SQL/SQL攻略/SQL/9.グループ化(GROUP BY).md",
+    "SQL/SQL攻略/SQL/8.パターンマッチング(LIKE演算子).md",
+    "SQL/SQL攻略/SQL/7.範囲抽出(BETWEEN).md",
+    "SQL/SQL攻略/SQL/6.集合関数.md",
+    "SQL/SQL攻略/SQL/5.ソート(ORDER BY).md",
+    "SQL/SQL攻略/SQL/4.SELECT文の基本(2).md",
+    "SQL/SQL攻略/SQL/2.SQL基本.md",
+    "SQL/SQL攻略/SQL/3.SELECTの基本(1).md",
+    "SQL/SQL攻略/SQL/16.入れ子の問い合わせ.md",
+    "SQL/SQL攻略/SQL/15.複数表への問い合わせ.md",
+    "SQL/SQL攻略/SQL/14.レコード削除 DELETE文.md",
+    "SQL/SQL攻略/SQL/0.サイトリンク AND 簡単纏め.md",
+    "SQL/SQL攻略/SQL/13.レコード更新 UPDATE文.md",
+    "SQL/SQL攻略/SQL/11.重複行の排除(DISTINCT).md",
+    "SQL/SQL攻略/SQL/12.レコード追加(INSERT文).md",
+    "SQL/SQL攻略/SQL/10.グループ化したテーブルの条件抽出(HAVING).md",
+    "SQL/SQL攻略/SQL/1.はじめに.md",
+    "SQL/スッキリわかるSQL入門/0.dokoQLリンク まとめ？.md",
+    "SQL/スッキリわかるSQL入門/1章.md",
+    "SQL/スッキリわかるSQL入門/2章.md",
+    "SQL/SQL攻略/正規化",
+    "SQL/SQL攻略/SQL",
+    "SQL/スッキリわかるSQL入門",
+    "SQL/まだやれていないこと.md",
+    "SQL/SQL攻略",
+    "SQL",
+    "DB/正規化.md",
+    "DB/デスペ著書.md",
+    "DB"
+  ]
+}
